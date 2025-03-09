@@ -3,12 +3,25 @@
 # 👋 Hi, I'm Ali Shirzadeh!
 
 ### ✅ **Software Developer** with **10+ years of experience**  
-### ✅ **Frontend (React, React Native, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript)** & **Backend (Django, Node.js, Python)**  
+### ✅ **Frontend (React, React Native, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript)** & **Backend (Django, Node.js, Python, PHP, Laravel, Java)**  
 ### ✅ **Problem-Solving & System Design Enthusiast**  
 
+---
 
+## 📊 **Stats**  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
 
 ## 🛠️ **Tech Stack**  
 
@@ -24,6 +37,9 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 ### **Frontend**
@@ -31,12 +47,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0078D4?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-### **Backend**
-<div align="left">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
+
 
 ### **Databases**
 <div align="left">
@@ -49,6 +66,14 @@
 ### **Mapping & GIS**
 <div align="left">
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoServer-008000?style=for-the-badge&logo=geoserver&logoColor=white" />
+</div>
+
+### **Mobile Development**
+<div align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-147EFB?style=for-the-badge&logo=ios&logoColor=white" />
 </div>
 
 ### **Tools & Services**
@@ -94,26 +119,8 @@ I love tackling complex problems, optimizing performance, and designing scalable
   <img src="https://img.shields.io/badge/SelfManagement-8E44AD?style=for-the-badge&logo=personal-trainer&logoColor=white" />
   <img src="https://img.shields.io/badge/Collaboration-1D4ED8?style=for-the-badge&logo=collaborative&logoColor=white" />
   <img src="https://img.shields.io/badge/Communication-34D399?style=for-the-badge&logo=communication&logoColor=white" />
-  <img src="https://img.shields.io/badge/ProblemSolving-FF6347?style=for-the-badge&logo=solving&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge&logo=leader&logoColor=white" />
 </div>
 
----
-
----
-
-## 📊 **Stats**  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ---
 
