@@ -8,22 +8,7 @@
 
 
 
----
 
-## 📊 **Stats**  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
 
 ## 🛠️ **Tech Stack**  
 
@@ -111,6 +96,23 @@ I love tackling complex problems, optimizing performance, and designing scalable
   <img src="https://img.shields.io/badge/Communication-34D399?style=for-the-badge&logo=communication&logoColor=white" />
   <img src="https://img.shields.io/badge/ProblemSolving-FF6347?style=for-the-badge&logo=solving&logoColor=white" />
   <img src="https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge&logo=leader&logoColor=white" />
+</div>
+
+---
+
+---
+
+## 📊 **Stats**  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
