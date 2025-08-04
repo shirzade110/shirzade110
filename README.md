@@ -1,4 +1,4 @@
-![Header Image](https://media.licdn.com/dms/image/v2/D4D16AQGVpxs9Ol8XTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738245292323?e=1747267200&v=beta&t=Nn2nKUo-pvTGSC8c9z9f7zUvUrQuTd6lMmW29vqRlnY)
+
 
 # 👋 Hi, I'm Ali Shirzadeh!
 
