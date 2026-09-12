@@ -9,17 +9,13 @@
 ---
 
 ## 📊 **Stats**  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-</div>
+
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
-</div>
+
 
 ---
 
