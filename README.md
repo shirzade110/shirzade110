@@ -1,106 +1,158 @@
-<h1 align="center">Ali Shirzadeh</h1>
+<!-- HEADER -->
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Software Developer · 10+ Years of Experience</b><br/>
-  Building scalable web, mobile, and ERP solutions with a focus on clean architecture and performance.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ali%20Shirzadeh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%C2%B7%20Odoo%20%C2%B7%20System%20Design&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Ali Shirzadeh" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/ali-shirzadeh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/shirzade1"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@ashirzade37"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="mailto:ashirzade37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=10%2B+years+building+production-grade+software;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+ERP+%C2%B7+GIS;Clean+architecture.+Scalable+systems.+Real+impact." alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## About
+<a href="https://linkedin.com/in/ali-shirzadeh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@ashirzade37"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://x.com/shirzade1"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:ashirzade37@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I'm a software developer with over a decade of experience delivering production-grade applications across the full stack. I enjoy solving complex problems, designing scalable systems, and turning business requirements into reliable, maintainable software.
+</div>
 
-- **Frontend & Mobile:** modern SPA/SSR applications and cross-platform mobile apps
-- **Backend & APIs:** robust services, REST APIs, and data-heavy systems
-- **ERP:** custom module development and integrations on **Odoo**
-- **GIS:** interactive maps and geospatial data processing
+<br/>
 
-## Core Expertise
+## 👨‍💻 About Me
 
-| Area | Focus |
-|------|-------|
-| **System Design** | Architecting scalable, maintainable applications |
-| **Performance** | Profiling, debugging, and optimization |
-| **Data & APIs** | Handling large-scale data and API integrations |
-| **ERP Development** | Odoo customization, modules, and workflows |
-| **Engineering Practices** | OOP, MVC, design patterns, TDD, code standards, documentation |
+I'm a software developer with **10+ years** of experience delivering production-grade applications across the full stack. I turn complex business requirements into reliable, scalable, and maintainable software, from polished user interfaces to robust backend services and ERP systems.
 
-## Tech Stack
+```text
+🔭  Focus        →  Scalable architecture, performance optimization, clean code
+🧩  ERP          →  Custom Odoo modules, workflows, and integrations
+🗺️  GIS          →  Interactive maps and geospatial data processing
+📱  Mobile       →  Cross-platform apps with React Native, plus Android & iOS
+🤝  Approach     →  Collaboration, ownership, and clear communication
+```
+
+<br/>
+
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🖥️ Frontend & Mobile
+Modern SPA and SSR applications with React, Next.js, Vue, and Nuxt, plus cross-platform mobile apps with React Native.
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
+Secure, well-documented services and REST APIs with Django, Node.js, Laravel, and Java, built to handle large-scale data.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏢 ERP with Odoo
+Custom module development, business workflow automation, and system integrations tailored to real company needs.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🗺️ Mapping & GIS
+Interactive web maps and geospatial analysis using Leaflet, GeoServer, and Google Earth Engine.
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java&theme=dark" />
+</p>
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,bootstrap,html,css,materialui,androidstudio,xcode&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+</p>
 
 **Backend & ERP**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,laravel&theme=dark" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" />
+</p>
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
+</p>
 
 **Mapping & GIS**
 
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-008000?style=flat-square&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoServer-008000?style=for-the-badge" />
+</p>
 
 **Tools & Services**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,firebase,sentry,postman&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-## Let's Connect
+## 🧠 Engineering Principles
 
-I'm open to collaboration and interesting projects. Reach out via [LinkedIn](https://linkedin.com/in/ali-shirzadeh/), [email](mailto:ashirzade37@gmail.com), or read my articles on [Medium](https://medium.com/@ashirzade37).
+| Principle | What it means in practice |
+|:--|:--|
+| **Clean Architecture** | OOP, MVC, and proven design patterns for maintainable systems |
+| **Quality First** | Test-Driven Development, thorough debugging, and careful troubleshooting |
+| **Performance** | Profiling and optimization for speed and scalability |
+| **Documentation** | Clear code standards and documentation that teams can rely on |
+| **Data & Integration** | Efficient algorithms, large-scale data handling, and API design |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Work Together
+
+I'm always open to interesting projects, collaborations, and technical conversations. Whether it's a web platform, a mobile app, or an Odoo implementation, feel free to reach out.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ali-shirzadeh/"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ashirzade37@gmail.com"><img src="https://img.shields.io/badge/Send-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+
+</div>
